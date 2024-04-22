@@ -1,5 +1,5 @@
 export function taskFirst() {
-  const task = 'I prefer const when I can.'; // i decided to use const instead of var
+  const task = 'I prefer const when I can.'; // i instantiated variables using let
   return task;
 }
 
@@ -8,7 +8,7 @@ export function getLast() {
 }
 
 export function taskNext() {
-  let combination = 'But sometimes let'; // and to use let instead of var
+  let combination = 'But sometimes let'; //  i instantiated variables using let
   combination += getLast();
 
   return combination;
