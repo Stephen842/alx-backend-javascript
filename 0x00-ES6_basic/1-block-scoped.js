@@ -3,8 +3,8 @@ export default function taskBlock(trueOrFalse) {
   let task2 = true; // i used let instead of var
 
   if (trueOrFalse) {
-    task = true; // assigned value to existing variables without redeclaring
-    task2 = false; // assigned value to existing variables without redeclaring
+    task = false; // assigned value to existing variables without redeclaring
+    task2 = true; // assigned value to existing variables without redeclaring
   }
 
   return [task, task2];
