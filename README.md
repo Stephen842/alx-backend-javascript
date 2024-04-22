@@ -1,0 +1,1 @@
+This project aims to fulfill the Node.js prerequisite, which is a practical assignment provided by Alx for my backend specialization. Although I'm still new to JavaScript, I'm eager to learn and succeed with this project.
